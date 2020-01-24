@@ -1,4 +1,4 @@
 
 # Pipeline Tutorial
 
-# Scripts and moduels for learning pipelines 
+# Scripts and modules for learning pipelines 
